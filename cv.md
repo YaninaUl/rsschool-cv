@@ -6,7 +6,7 @@
 
 ### Contact information:
 **E-mail:** <yulasavets@gmail.com> <br>
-**GitHub:** @yaninaul
+**GitHub:** @yaninaul <br>
 **Discord:** Yanina(YaninaUl)
 
 

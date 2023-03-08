@@ -1,18 +1,22 @@
 # Yanina Ulasavets
+<img src="https://t3.ftcdn.net/jpg/03/29/36/40/240_F_329364028_wVuGGblS5BxfbbQYiPMZzpzOuAYUBkzx.jpg" alt="avatar" width="150">
+
 
 ## Junior FE Developer 
 
 ### Contact information:
 **E-mail:** <yulasavets@gmail.com> <br>
 **GitHub:** @yaninaul
+**Discord:** Yanina(YaninaUl)
 
 
 ### About me
-I have 6+ years experience as QA Engineer, looking for new challenges. 
+Senior QA Engineer with more than 7 years of experience, looking for new challenges. <br>
+Multitasking, hardworking, self-dependence, responsible, team-player.
 
 ### Development skills
 - HTML5
-- CSS (+ Framework Bootstrap)
+- CSS (+ Bootstrap framework)
 - JavaScript (basic knowledge)
 - Java(basic knowledge)
 - Version control system - Git
@@ -49,8 +53,9 @@ function showDayAndTime(day, hours, minutes) {
 }
 showDayAndTime(day, hours, minutes);
 ```
-### Experience
-Successfully completed SheCodes Web Development workshop. <br> Link to the final project - [Weather app.](https://endearing-marzipan-6146bd.netlify.app/)  
+### Experience in dev
+- Successfully completed SheCodes Web Development workshop. <br> Link to the final project - [Weather app.](https://endearing-marzipan-6146bd.netlify.app/)
+- Minor experience with BDD automation testing.   
 
 ### Courses
 - **SheCodes** "Web Development" course (completed).<br> [Certificate](https://drive.google.com/file/d/18JmOoOa9SDC9Esl3NLV37QylyS8gXTXX/view?usp=sharing)<br>
